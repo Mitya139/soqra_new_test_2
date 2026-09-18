@@ -8,55 +8,59 @@
 
 ## One-line Summary
 
-[Fill in: A single sentence describing what your product is and who it's for. Format: "[Product] is a [category] that helps [target user] [achieve outcome]."]
+Soqra is an AI-powered math learning platform for private schools in Cyprus that gives students immediate feedback while helping school admins and teachers reduce grading time and improve learning outcomes.
 
-## What [Product Name] Does
+## What Soqra Does
 
-[Fill in: 4–6 bullet points describing the core value the product delivers. Write from the user's perspective — what they can do or accomplish, not what the system does technically.]
+Soqra helps private schools shorten the feedback loop in math.
 
-- 
-- 
-- 
-- 
+- Gives students immediate, personalized feedback on math work.
+- Helps students move toward the correct answer step by step.
+- Reduces manual grading for teachers.
+- Gives school admins better visibility into student progress and learning quality.
+- Fits into school workflows without replacing teachers.
 
 ## Core Product Components
 
-[Fill in: List the 3–5 major product areas or feature pillars. For each, add a brief sub-description of what it includes and why it matters.]
+- **Student feedback experience**
+  - Gives instant guidance on math work and explains where a student went wrong.
+  - Helps students learn while they are still solving, not after the lesson is over.
 
-- **[Component 1]**
-  - [What it does / key capability]
-  - [Why it matters to the user]
+- **AI grading and answer checking**
+  - Reviews student responses and supports automated grading.
+  - Reduces teacher workload and speeds up feedback delivery.
 
-- **[Component 2]**
-  - [What it does / key capability]
-  - [Why it matters to the user]
+- **Teacher support layer**
+  - Helps teachers manage grading and student progress more efficiently.
+  - Makes it easier to focus on instruction instead of repetitive correction.
 
-- **[Component 3]**
-  - [What it does / key capability]
-  - [Why it matters to the user]
+- **Math learning flow**
+  - Focuses on step-by-step improvement toward the right answer.
+  - Keeps students engaged through faster, more interactive practice.
+
+- **School visibility layer**
+  - Gives admins better oversight into progress and learning quality.
+  - Supports school-level decisions without adding extra admin work.
 
 ## Target Users
 
-[Fill in: 2–4 user segments with a one-line description of each. Be specific — generic "anyone who..." descriptions are not useful.]
-
-- [Segment 1] — [what they need / why they use the product]
-- [Segment 2] — [what they need / why they use the product]
-- [Segment 3] — [what they need / why they use the product]
+- **School admins at private schools in Cyprus** — primary buyers who care about workflow fit, oversight, and learning outcomes.
+- **8th–9th grade math teachers** — primary users who need to reduce manual grading and give faster feedback.
+- **Middle and high school students** — primary users who need quick feedback, clearer explanations, and more support while solving problems.
+- **Private school students and parents in Cyprus** — early B2C users supporting the school-led entry point and caring about trust, results, and ease of use.
 
 ## Value Proposition
 
-[Fill in: 3–5 bullet points on why users choose this product over alternatives. Focus on differentiated value — avoid generic claims like "easy to use" unless you can back them up.]
-
-- 
-- 
-- 
+- Faster feedback helps students learn sooner.
+- Automated grading reduces teacher workload.
+- Schools get better visibility into student progress.
+- The product fits school workflows instead of adding more admin work.
+- Early testing showed strong student interest and trust.
 
 ## Product Scope vs. Adjacent Tools
 
-[Fill in: 2–3 sentences clarifying what your product is NOT, and how it compares to the closest alternatives. This prevents scope creep and helps with positioning.]
-
-- Unlike [competitor / category], [Product Name] focuses on [differentiator] rather than [what you deliberately exclude].
-- Positions itself as [positioning statement] that complements [tools your users already use].
+- Unlike a generic tutoring app or a full LMS, Soqra focuses on math feedback and grading speed rather than broad classroom management.
+- Soqra positions itself as an AI learning assistant for math practice that complements existing teacher workflows and home study tools.
 
 ## Product Map AI Agent
 

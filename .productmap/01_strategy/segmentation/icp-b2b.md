@@ -2,68 +2,55 @@
 
 # ICP — B2B (Company Accounts)
 
-**Motion:** B2B — the customer is an organisation. Buying usually involves a champion, economic buyer, and (often) a committee; value is measured in team or business outcomes.
+**Motion:** B2B — the customer is an organisation. Buying usually involves a champion, economic buyer, and often a committee; value is measured in school-level learning and operational outcomes.
 
-Use this template when you sell to **companies or teams**: sales-led, product-led sales, or seat-based B2B SaaS where firmographics and buying process matter as much as the end-user job.
+Use this template when you sell to private schools where firmographics, buying process, and workflow fit matter as much as the end-user job.
 
 ## Profile
-
-[Fill in: 2–3 sentence description of the ideal company account. What kind of organisation are they? What stage are they at? Why do they need your product?]
-
-Example: "A [company stage] [industry] company with a [team size/description], operating in a market where [key pressure or opportunity]. They have budget for [category] but lack [internal capability your product replaces]."
-
----
+A private school in Cyprus with active 8th–9th grade math programs and a clear need to improve feedback speed, reduce grading workload, and strengthen learning outcomes. They care about keeping teachers effective, giving school leadership visibility into progress, and adopting tools that fit existing classroom workflows without creating more admin work.
 
 ## Attributes
-
 | Attribute | Description |
 |-----------|-------------|
-| **Name** | [Example company name or segment label] |
-| **Industry** | [Fill in: e.g., B2B SaaS, Fintech, Healthcare, E-commerce] |
-| **Size** | [Fill in: e.g., 50–500 employees, or revenue / ARR range] |
-| **HQ / Geo** | [Fill in: e.g., USA, UK, Germany, remote-first] |
-| **Stage** | [Fill in: e.g., Series A–B, post-PMF, scaling] |
-| **Pain Points** | [Fill in: what business problems do they have that your product solves?] |
-| **Goals** | [Fill in: what outcomes are they trying to achieve as a team or company?] |
-| **Budget / ACV** | [Fill in: estimated deal size, willingness to pay, and buying process] |
-| **Decision Makers** | [Fill in: who approves the purchase — e.g., Head of Product, CPO, VP Eng, Procurement] |
-| **Champions** | [Fill in: who would advocate internally — e.g., senior PM, product ops lead] |
-| **Sales Cycle** | [Fill in: e.g., 2–8 weeks self-serve expansion; 1–3 months sales-assisted] |
-
----
+| **Name** | Private schools in Cyprus |
+| **Industry** | Private K–12 education |
+| **Size** | Small to mid-sized schools with active secondary math classes |
+| **HQ / Geo** | Cyprus |
+| **Stage** | Established schools with ongoing classroom operations |
+| **Pain Points** | Slow feedback loops, manual grading, teacher workload, student disengagement, limited visibility into progress |
+| **Goals** | Improve math learning outcomes, reduce teacher burden, strengthen parent trust, keep workflows efficient |
+| **Budget / ACV** | School-level annual subscription or pilot-to-annual deal; willingness to pay depends on visible time savings and outcomes |
+| **Decision Makers** | School admin, principal, owner/director, department lead |
+| **Champions** | 8th–9th grade math teachers |
+| **Sales Cycle** | Short pilot-led sales cycle, often 2–8 weeks depending on school size and decision process |
 
 ## Qualification Criteria
-
-A company is a strong B2B fit if they meet most of these:
-
-- [ ] [Fill in: criterion 1 — e.g., has a dedicated PM or product team]
-- [ ] [Fill in: criterion 2 — e.g., uses agile delivery and has a shared backlog]
-- [ ] [Fill in: criterion 3 — e.g., has budget owner and a clear buying trigger]
-- [ ] [Fill in: criterion 4 — e.g., team size, seat count, or revenue threshold]
-- [ ] [Fill in: criterion 5 — e.g., growth trajectory, urgency, or competitive pressure]
+A school is a strong B2B fit if they meet most of these:
+- [ ] They are a private school in Cyprus.
+- [ ] They teach 8th–9th grade math.
+- [ ] Teachers spend meaningful time on manual grading or repeated correction.
+- [ ] School leadership cares about learning outcomes and visibility into student progress.
+- [ ] They are willing to try a workflow that fits into existing teaching routines.
+- [ ] They can support a pilot and give feedback quickly.
 
 ## Disqualifiers (B2B)
-
-Exclude companies that:
-
-- [Fill in: e.g., have no dedicated product function or budget owner]
-- [Fill in: e.g., are pre-revenue or pre-product with no path to paid seats]
-- [Fill in: e.g., require compliance / procurement you cannot support yet]
-- [Fill in: e.g., only want a consumer-style single-user plan with no team value]
+Exclude schools that:
+- Need a broad LMS rather than a math-focused feedback and grading layer.
+- Cannot adopt AI tools in their current policy or workflow.
+- Have no visible grading or feedback pain.
+- Want a fully custom enterprise rollout before validating value.
+- Are unlikely to let teachers or students use the product consistently.
 
 ## Buying Committee (optional)
-
 | Role | Who | What they care about |
 |------|-----|----------------------|
-| **Champion** | [Fill in] | [Fill in: day-to-day value, ease of adoption] |
-| **Economic buyer** | [Fill in] | [Fill in: ROI, budget, risk] |
-| **Influencer / blocker** | [Fill in] | [Fill in: security, IT, legal, competing tools] |
+| **Champion** | 8th–9th grade math teacher | Faster grading, better feedback, easier classroom workflow |
+| **Economic buyer** | School admin / principal / owner | ROI, learning outcomes, parent trust, operational fit |
+| **Influencer / blocker** | IT, academic lead, parents | Safety, usability, trust, curriculum fit |
 
 ## Product Map AI Agent
-
-Fill in this context file with the **[Define ICP and segments](https://productmap.dev/profile/assistant/3d162ed5-cd30-41e1-95bf-61019319cc9c/chat/startups_icp)** agent on [Product Map](https://productmap.dev/profile/assistant/3d162ed5-cd30-41e1-95bf-61019319cc9c). Use it to profile your ideal company buyer, map firmographic fit, and sharpen B2B positioning.
+Use the Define ICP and segments agent on Product Map to profile the ideal school account, map buying roles, and sharpen B2B positioning.
 
 ## Related
-
 - [icp-b2c.md](./icp-b2c.md)
 - [segmentation.md](./segmentation.md)

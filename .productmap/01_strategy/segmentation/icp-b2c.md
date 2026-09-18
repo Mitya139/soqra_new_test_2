@@ -2,63 +2,50 @@
 
 # ICP — B2C (Individual Users)
 
-**Motion:** B2C / PLG — the buyer and the end user are the same person (or the individual self-serves and may expense later).
+**Motion:** B2C / PLG — the buyer and the end user are the same person, or the student/parent self-serves alongside school use.
 
-Use this template when you sell to **people**, not buying committees: freemium, self-serve SaaS, consumer apps, creator tools, or individual professional subscriptions.
+Use this template when you sell to individual students or parents who want fast, trusted help with math practice and homework.
 
 ## Profile
-
-[Fill in: 2–3 sentence description of the ideal individual customer. Who are they? What are they trying to accomplish? What does a typical day look like?]
-
-Example: "An individual professional who [core job-to-be-done]. They [context or constraint]. They want [desired outcome], not [anti-pattern or failed alternative]."
-
----
+A middle or high school student in a private school in Cyprus who wants faster help with math work, clearer explanations, and less waiting for teacher feedback. They are usually working on homework, practice, or exam preparation and want step-by-step support that helps them finish work confidently and understand mistakes in the moment.
 
 ## Attributes
-
 | Attribute | Description |
-|-----------|-------------|
-| **Role / Title** | [Fill in: e.g., Product Manager, Senior PM, Founder acting as PM, indie maker] |
-| **Seniority / Life stage** | [Fill in: e.g., mid-level (2–5 years), career switcher, student, hobbyist] |
-| **Context** | [Fill in: e.g., startup employee, freelancer, side project, personal use] |
-| **Goals** | [Fill in: what does this person want to achieve — personally or in daily work?] |
-| **Frustrations** | [Fill in: what slows them down or causes stress? What problems are they aware of?] |
-| **Tools Used** | [Fill in: e.g., apps and services they already use in this category] |
-| **Where They Discover** | [Fill in: e.g., social channels, communities, app stores, search, word of mouth] |
-| **Willingness to Pay** | [Fill in: e.g., self-pay up to $X/month; annual vs monthly preference; free-tier expectations] |
-
----
+|-------------|-------------|
+| **Role / Title** | Student, usually 8th–9th grade |
+| **Seniority / Life stage** | Middle school / early high school |
+| **Context** | Private school student in Cyprus, studying at home or after class |
+| **Goals** | Understand math faster, finish homework, improve grades, feel less stuck, prepare for exams |
+| **Frustrations** | Waiting for teacher feedback, getting stuck on one step, not knowing where they went wrong, losing confidence in math |
+| **Tools Used** | School notes, worksheets, calculators, messaging apps, homework help tools, tutoring support |
+| **Where They Discover** | School recommendation, teacher recommendation, parent recommendation, word of mouth |
+| **Willingness to Pay** | Usually parent-paid or school-supported; low to moderate individual willingness to pay unless value is very clear |
 
 ## Behavioral Signals
-
 A user is a strong B2C fit if they exhibit these behaviours:
-
-- [Fill in: e.g., signs up without a sales call and completes core onboarding alone]
-- [Fill in: e.g., returns within the first 7 days and forms a habit loop]
-- [Fill in: e.g., already pays for adjacent consumer or prosumer tools]
-- [Fill in: e.g., shares, refers, or posts about tools they like]
-- [Fill in: e.g., converts from free → paid on a clear value moment]
+- They return to the product when they are stuck on math homework.
+- They use step-by-step feedback instead of only looking for the final answer.
+- They trust the explanations enough to keep practicing.
+- They use the product repeatedly during exam prep or homework periods.
+- A parent is comfortable supporting the subscription or access.
 
 ## Jobs to Be Done
-
-- When [situation], I want to [motivation], so I can [outcome].
-  - [Fill in: e.g., "When I need to prioritise my backlog, I want a structured framework, so I can defend my decisions to stakeholders."]
-- [Fill in: second JTBD]
-- [Fill in: third JTBD]
+- When I am stuck on a math problem, I want instant help, so I can keep going without waiting for a teacher.
+- When I make a mistake, I want to see where I went wrong, so I can improve faster.
+- When I am preparing for an exam, I want clear step-by-step practice, so I can feel more confident.
+- When my parents want me to study more effectively, I want a trusted tool, so I can learn independently.
 
 ## Disqualifiers (B2C)
-
 Exclude individuals who:
-
-- [Fill in: e.g., only evaluate via procurement / RFP and never self-serve]
-- [Fill in: e.g., need enterprise SSO, contracts, or multi-seat admin before trying]
-- [Fill in: e.g., have no recurring personal or discretionary budget for the category]
+- Only want full answers without learning.
+- Need a broad tutoring platform across many subjects.
+- Do not have parent or school support for access.
+- Do not trust AI-assisted feedback.
+- Rarely do independent math practice outside class.
 
 ## Product Map AI Agent
-
-Fill in this context file with the **[Define ICP and segments](https://productmap.dev/profile/assistant/3d162ed5-cd30-41e1-95bf-61019319cc9c/chat/startups_icp)** agent on [Product Map](https://productmap.dev/profile/assistant/3d162ed5-cd30-41e1-95bf-61019319cc9c). Use it to profile your ideal individual customer, capture jobs-to-be-done, and refine behavioral fit signals for a B2C / PLG motion.
+Use the Define ICP and segments agent on Product Map to profile the ideal student user, capture jobs-to-be-done, and refine behavioral fit signals for the B2C motion.
 
 ## Related
-
 - [icp-b2b.md](./icp-b2b.md)
 - [segmentation.md](./segmentation.md)
