@@ -16,6 +16,33 @@ Segmentation work identifies and describes the specific customer groups the prod
 | [icp-b2b.md](./icp-b2b.md) | Ideal Customer Profile for company / B2B accounts (buying committee) |
 | customer-journey-map.md | End-to-end customer journey map with pain points and opportunities (not yet created) |
 
+## Initial Segment Hypotheses
+
+For Soqra, the first segmentation lens is the classroom math workflow in private schools in Cyprus.
+
+### Highest-priority beachhead
+- **Private-school math teachers in Cyprus** who create tasks, assign them to classes, and spend time checking work and giving feedback by hand.
+- Their students are the immediate users inside the classroom workflow, but the teacher is the primary adoption and workflow owner.
+
+### Primary segment splits
+- **Teacher-led classroom use vs student-led practice**
+- **Private schools vs broader school types**
+- **8th–9th grade vs other grades**
+- **High-volume homework / checking load vs lighter use**
+- **Manual feedback workflows vs existing LMS/worksheet workflows**
+
+### Current baseline alternatives
+- Worksheets
+- Google Classroom
+- Manual checking and feedback by the teacher
+
+### Segment selection criteria
+Prioritise segments with:
+- clear and frequent pain,
+- repeated math workflow usage,
+- strong fit with school routines,
+- and enough willingness to pay at the school level.
+
 ## Required Skills
 
 - Voice of Customer

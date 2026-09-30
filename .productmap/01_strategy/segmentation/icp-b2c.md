@@ -7,9 +7,11 @@
 Use this template when you sell to individual students or parents who want fast, trusted help with math practice and homework.
 
 ## Profile
-A middle or high school student in a private school in Cyprus who wants faster help with math work, clearer explanations, and less waiting for teacher feedback. They are usually working on homework, practice, or exam preparation and want step-by-step support that helps them finish work confidently and understand mistakes in the moment.
+
+A middle or high school student in a private school in Cyprus who wants faster help with math work, clearer explanations, and less waiting for teacher feedback. They are usually working on homework, practice, or exam preparation and want step-by-step support that helps them finish work confidently and understand mistakes in the moment. In practice, they may be using classroom tasks that were assigned through worksheets or Google Classroom and then checking their work with teacher feedback or AI support.
 
 ## Attributes
+
 | Attribute | Description |
 |-------------|-------------|
 | **Role / Title** | Student, usually 8th–9th grade |
@@ -17,7 +19,7 @@ A middle or high school student in a private school in Cyprus who wants faster h
 | **Context** | Private school student in Cyprus, studying at home or after class |
 | **Goals** | Understand math faster, finish homework, improve grades, feel less stuck, prepare for exams |
 | **Frustrations** | Waiting for teacher feedback, getting stuck on one step, not knowing where they went wrong, losing confidence in math |
-| **Tools Used** | School notes, worksheets, calculators, messaging apps, homework help tools, tutoring support |
+| **Tools Used** | School notes, worksheets, Google Classroom, calculators, messaging apps, homework help tools, tutoring support |
 | **Where They Discover** | School recommendation, teacher recommendation, parent recommendation, word of mouth |
 | **Willingness to Pay** | Usually parent-paid or school-supported; low to moderate individual willingness to pay unless value is very clear |
 

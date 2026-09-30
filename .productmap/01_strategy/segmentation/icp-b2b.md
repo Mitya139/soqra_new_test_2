@@ -7,9 +7,11 @@
 Use this template when you sell to private schools where firmographics, buying process, and workflow fit matter as much as the end-user job.
 
 ## Profile
-A private school in Cyprus with active 8th–9th grade math programs and a clear need to improve feedback speed, reduce grading workload, and strengthen learning outcomes. They care about keeping teachers effective, giving school leadership visibility into progress, and adopting tools that fit existing classroom workflows without creating more admin work.
+
+A private school in Cyprus with active 8th–9th grade math programs and a clear need to improve feedback speed, reduce grading workload, and strengthen learning outcomes. Teachers typically create tasks or task sets, publish them in class, and still check work by hand or through tools like worksheets and Google Classroom. They care about keeping teachers effective, giving school leadership visibility into progress, and adopting tools that fit existing classroom workflows without creating more admin work.
 
 ## Attributes
+
 | Attribute | Description |
 |-----------|-------------|
 | **Name** | Private schools in Cyprus |
@@ -17,7 +19,7 @@ A private school in Cyprus with active 8th–9th grade math programs and a clear
 | **Size** | Small to mid-sized schools with active secondary math classes |
 | **HQ / Geo** | Cyprus |
 | **Stage** | Established schools with ongoing classroom operations |
-| **Pain Points** | Slow feedback loops, manual grading, teacher workload, student disengagement, limited visibility into progress |
+| **Pain Points** | Slow feedback loops, manual grading, teacher workload, student disengagement, limited visibility into progress, reliance on worksheets / Google Classroom / hand-checking |
 | **Goals** | Improve math learning outcomes, reduce teacher burden, strengthen parent trust, keep workflows efficient |
 | **Budget / ACV** | School-level annual subscription or pilot-to-annual deal; willingness to pay depends on visible time savings and outcomes |
 | **Decision Makers** | School admin, principal, owner/director, department lead |
